@@ -1,10 +1,11 @@
 <div algin="center"
   <img src="" alt="" width="195" height="90"/>
+
    # Dmenu 
 
    ### A ***simple*** and ***centered*** Dmenu for launching anything you want!
 
-   [!preview] (.github/preview.gif)
+   ![preview] (.github/preview.gif)
 
 </div>
 
@@ -59,4 +60,4 @@ sudo make clean install
 ```
 
 >[!NOTE]
-> - If you are using my dwm setup, then you launch dmenu with <kbd>Super/Windows</kbd>+<kbd>d</kbd>
+> - If you are using my dwm setup, then you launch dmenu with <kbd>Super/Windows</kbd> + <kbd>d</kbd>
