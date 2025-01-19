@@ -1,5 +1,5 @@
 <div algin="center"
-  <img src="" alt="" width="195" height="90"/>
+  <img src="./demostration.gif" alt="demostration" width="195" height="90"/>
   
 </div>
 
@@ -8,8 +8,8 @@ This is my personal fork of Dmenu. It' a very simple centered bar to launch prog
 <details>
   <summary> Click to see patches applied </summary>
 
-  - 
-  -
+  - Alpha
+  - Center
 
 </details>
 
