@@ -5,7 +5,7 @@
 
    ### A ***simple*** and ***centered*** Dmenu for launching anything you want!
 
-   ![preview] (.github/preview.gif)
+   ![Preview] (/.github/preview.gif)
 
 </div>
 
