@@ -60,4 +60,4 @@ sudo make clean install
 ```
 
 >[!NOTE]
-> - If you are using my dwm setup, then you launch dmenu with <kbd>Super/Windows</kbd> + <kbd>d</kbd>
+> - If you are using my dwm setup, then you can launch dmenu with <kbd>Super/Windows</kbd> + <kbd>d</kbd>
