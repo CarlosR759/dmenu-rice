@@ -1,0 +1,21 @@
+# Compiled binaries
+*.o
+*.exe
+
+# Dependency files
+*.d
+
+# Debugging files
+*~*
+
+# IDE-specific files
+*.project
+*.cproject
+*.settings
+*.iml
+
+# Other files
+dmenu
+stest
+dmenu_path
+dmenu_run
