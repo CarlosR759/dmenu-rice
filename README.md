@@ -1,6 +1,11 @@
 <div algin="center"
-  <img src="./demostration.gif" alt="demostration" width="195" height="90"/>
-  
+  <img src="" alt="" width="195" height="90"/>
+   # Dmenu 
+
+   ### A ***simple*** and ***centered*** Dmenu for launching anything you want!
+
+   [!preview] (.github/preview.gif)
+
 </div>
 
 This is my personal fork of Dmenu. It' a very simple centered bar to launch programs. 
