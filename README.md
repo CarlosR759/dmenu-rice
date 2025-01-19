@@ -8,8 +8,7 @@
 
 </div>
 
-![Preview] (/.github/preview.gif)
-
+![Preview](/.github/preview.gif)
 This is my personal fork of Dmenu. It' a very simple centered bar to launch programs. 
 
 <details>
