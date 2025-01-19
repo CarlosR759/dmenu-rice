@@ -9,7 +9,7 @@
 </div>
 
 ![Preview](/.github/preview.gif)
-This is my personal fork of Dmenu. It' a very simple centered bar to launch programs. 
+This is my personal fork of Dmenu. It' a very simple centered search field to launch programs. 
 
 <details>
   <summary> Click to see patches applied </summary>
